@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<WORKSPACE>
+ <FRAME activewindow="2">
+  <PLACEMENT>2c0000000000000001000000ffffffffffffffffffffffffffffffff9d020000e70000007307000004040000</PLACEMENT>
+  <WINDOW type="default" module="PROJNOTES"/>
+  <WINDOW type="default" module="DXP"/>
+  <WINDOW type="default" module="ISIS">
+   <editor metric="0" gridmajor="25400000" mode="00000015" zoom="0" scale="64" flipped="0" gridminor="508000" gridmode="32" snapidx="2" snap="254000" xcursor="0" orgmode="0" snaprange="198437">
+    <world y1="-12700000" x1="-19050000" y2="12700000" x2="19050000"/>
+    <centre x="6350000" y="4318000"/>
+    <origin x="0" y="0"/>
+   </editor>
+  </WINDOW>
+ </FRAME>
+ <MODULE name="ARES">
+  <editor metric="0" gridmajor="0" mode="00000000" zoom="10" scale="10" flipped="0" gridminor="0" gridmode="32" snapidx="3" snap="0" xcursor="0" orgmode="0" snaprange="0">
+   <world y1="-12700000" x1="-15240000" y2="12700000" x2="15240000"/>
+   <centre x="0" y="0"/>
+   <origin x="0" y="0"/>
+  </editor>
+ </MODULE>
+ <MODULE name="ISIS">
+  <editor metric="0" gridmajor="25400000" mode="00000015" zoom="0" scale="64" flipped="0" gridminor="508000" gridmode="32" snapidx="2" snap="254000" xcursor="0" orgmode="0" snaprange="198437">
+   <world y1="-12700000" x1="-19050000" y2="12700000" x2="19050000"/>
+   <centre x="6350000" y="4318000"/>
+   <origin x="0" y="0"/>
+  </editor>
+ </MODULE>
+ <MODULE name="VSMDEBUG">
+  <PWI>
+   <POPUP w="941" x="963" flags="00000003" y="580" h="452" pid="0" iid="-1">
+    <PROPERTIES>
+     <ITEM name="Message Column Width">699</ITEM>
+     <ITEM name="ShowGrid">No</ITEM>
+     <ITEM name="Source Column Width">100</ITEM>
+     <ITEM name="Time Column Width">120</ITEM>
+     <ITEM name="Version">100</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="562" x="57" flags="00000033" y="46" h="200" pid="1" iid="-1">
+    <PROPERTIES>
+     <ITEM name="Address Column Width">100</ITEM>
+     <ITEM name="AutoResize">No</ITEM>
+     <ITEM name="Gridlines">Yes</ITEM>
+     <ITEM name="Item 0">"ADCSRA","0x007A",00000001,0000000D,90,1,0,54F00000,0,00000000,00000000</ITEM>
+     <ITEM name="Name Column Width">100</ITEM>
+     <ITEM name="Previous Value Column Width">100</ITEM>
+     <ITEM name="ShowAddresses">Yes</ITEM>
+     <ITEM name="ShowPreviousValues">Yes</ITEM>
+     <ITEM name="ShowTypes">Yes</ITEM>
+     <ITEM name="ShowWatchPoint">Yes</ITEM>
+     <ITEM name="TriggerMode">0</ITEM>
+     <ITEM name="Type Column Width">122</ITEM>
+     <ITEM name="Value Column Width">100</ITEM>
+     <ITEM name="Version">100</ITEM>
+     <ITEM name="Watch Expression Column Width">38</ITEM>
+     <ITEM name="nItems">1</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="30" x="80" flags="00000009" y="709" h="16" pid="3" iid="1">
+    <PROPERTIES/>
+   </POPUP>
+   <POPUP w="8" x="357" flags="0000000a" y="253" h="1" pid="10" iid="1">
+    <PROPERTIES>
+     <ITEM name="DataType">2</ITEM>
+     <ITEM name="DispChars">Yes</ITEM>
+     <ITEM name="DispFormat">2</ITEM>
+     <ITEM name="ShowChanges">Yes</ITEM>
+     <ITEM name="ShowToolTips">Yes</ITEM>
+     <ITEM name="TopLineAddress">00000000</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="8" x="377" flags="0000000a" y="273" h="27" pid="6" iid="1">
+    <PROPERTIES>
+     <ITEM name="DataType">2</ITEM>
+     <ITEM name="DispChars">Yes</ITEM>
+     <ITEM name="DispFormat">2</ITEM>
+     <ITEM name="ShowChanges">Yes</ITEM>
+     <ITEM name="ShowToolTips">Yes</ITEM>
+     <ITEM name="TopLineAddress">00000000</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="16" x="319" flags="0000000b" y="609" h="390451571" pid="7" iid="1">
+    <PROPERTIES>
+     <ITEM name="DataType">2</ITEM>
+     <ITEM name="DispChars">Yes</ITEM>
+     <ITEM name="DispFormat">2</ITEM>
+     <ITEM name="ShowChanges">Yes</ITEM>
+     <ITEM name="ShowToolTips">Yes</ITEM>
+     <ITEM name="TopLineAddress">00000000</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="16" x="94" flags="00000001" y="284" h="31" pid="14" iid="1">
+    <PROPERTIES>
+     <ITEM name="DataType">2</ITEM>
+     <ITEM name="DispChars">Yes</ITEM>
+     <ITEM name="DispFormat">2</ITEM>
+     <ITEM name="ShowChanges">Yes</ITEM>
+     <ITEM name="ShowToolTips">Yes</ITEM>
+     <ITEM name="TopLineAddress">00000000</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="16" x="1135" flags="0000000b" y="306" h="390451571" pid="4" iid="1">
+    <PROPERTIES>
+     <ITEM name="DataType">2</ITEM>
+     <ITEM name="DispChars">Yes</ITEM>
+     <ITEM name="DispFormat">2</ITEM>
+     <ITEM name="ShowChanges">Yes</ITEM>
+     <ITEM name="ShowToolTips">Yes</ITEM>
+     <ITEM name="TopLineAddress">00000100</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="16" x="805" flags="0000000a" y="644" h="5" pid="13" iid="1">
+    <PROPERTIES>
+     <ITEM name="DataType">2</ITEM>
+     <ITEM name="DispChars">Yes</ITEM>
+     <ITEM name="DispFormat">2</ITEM>
+     <ITEM name="ShowChanges">Yes</ITEM>
+     <ITEM name="ShowToolTips">Yes</ITEM>
+     <ITEM name="TopLineAddress">00000020</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="613" x="-1761" flags="00000023" y="680" h="279" pid="0" iid="2">
+    <PROPERTIES>
+     <ITEM name="AutoEcho">0</ITEM>
+     <ITEM name="HexMode">1</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="574" x="3265" flags="00000001" y="80" h="349" pid="0" iid="4">
+    <PROPERTIES>
+     <ITEM name="AutoEcho">1</ITEM>
+     <ITEM name="HexMode">0</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="370" x="1541" flags="00008023" y="428" h="287" pid="0" iid="5">
+    <PROPERTIES>
+     <ITEM name="AutoEcho">1</ITEM>
+     <ITEM name="HexMode">0</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="621" x="-1798" flags="00000023" y="115" h="239" pid="0" iid="8">
+    <PROPERTIES>
+     <ITEM name="AutoEcho">1</ITEM>
+     <ITEM name="HexMode">1</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="450" x="557" flags="00000022" y="453" h="250" pid="0" iid="9">
+    <PROPERTIES>
+     <ITEM name="AutoEcho">0</ITEM>
+     <ITEM name="HexMode">1</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="831" x="2203" flags="0000000b" y="229" h="644" pid="1" iid="1">
+    <PROPERTIES/>
+   </POPUP>
+   <POPUP w="794" x="-832" flags="0000000b" y="321" h="445" pid="2" iid="1">
+    <PROPERTIES>
+     <ITEM name="Address Column Width">100</ITEM>
+     <ITEM name="AutoResize">No</ITEM>
+     <ITEM name="Gridlines">Yes</ITEM>
+     <ITEM name="Name Column Width">277</ITEM>
+     <ITEM name="Previous Value Column Width">116</ITEM>
+     <ITEM name="ShowAddresses">Yes</ITEM>
+     <ITEM name="ShowGlobals">Yes</ITEM>
+     <ITEM name="ShowPreviousValues">Yes</ITEM>
+     <ITEM name="ShowTypes">Yes</ITEM>
+     <ITEM name="ShowWatchPoint">No</ITEM>
+     <ITEM name="TriggerMode">0</ITEM>
+     <ITEM name="Type Column Width">182</ITEM>
+     <ITEM name="Value Column Width">100</ITEM>
+     <ITEM name="Version">100</ITEM>
+     <ITEM name="Watch Expression Column Width">0</ITEM>
+     <ITEM name="nItems">0</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="8" x="489" flags="00000008" y="221" h="4" pid="1" iid="11">
+    <PROPERTIES>
+     <ITEM name="DataType">2</ITEM>
+     <ITEM name="DispChars">Yes</ITEM>
+     <ITEM name="DispFormat">2</ITEM>
+     <ITEM name="ShowChanges">Yes</ITEM>
+     <ITEM name="ShowToolTips">Yes</ITEM>
+     <ITEM name="TopLineAddress">00000000</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="8" x="509" flags="00000008" y="241" h="4" pid="1" iid="13">
+    <PROPERTIES>
+     <ITEM name="DataType">2</ITEM>
+     <ITEM name="DispChars">Yes</ITEM>
+     <ITEM name="DispFormat">2</ITEM>
+     <ITEM name="ShowChanges">Yes</ITEM>
+     <ITEM name="ShowToolTips">Yes</ITEM>
+     <ITEM name="TopLineAddress">00000000</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="8" x="529" flags="00000008" y="261" h="4" pid="1" iid="14">
+    <PROPERTIES>
+     <ITEM name="DataType">2</ITEM>
+     <ITEM name="DispChars">Yes</ITEM>
+     <ITEM name="DispFormat">2</ITEM>
+     <ITEM name="ShowChanges">Yes</ITEM>
+     <ITEM name="ShowToolTips">Yes</ITEM>
+     <ITEM name="TopLineAddress">00000000</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="608" x="667" flags="00000023" y="130" h="250" pid="0" iid="32">
+    <PROPERTIES>
+     <ITEM name="ComboBox1000">S</ITEM>
+     <ITEM name="ComboBox1001">Sr</ITEM>
+     <ITEM name="ComboBox1002">P</ITEM>
+     <ITEM name="ComboBox1003">A</ITEM>
+     <ITEM name="ComboBox1004">N</ITEM>
+     <ITEM name="ComboBox1005">S</ITEM>
+     <ITEM name="ComboBox1006">Sr</ITEM>
+     <ITEM name="ComboBox1007">P</ITEM>
+     <ITEM name="ComboBox1008">A</ITEM>
+     <ITEM name="ComboBox1009">N</ITEM>
+     <ITEM name="HSplitter1Pos">100</ITEM>
+     <ITEM name="VSplitter1Pos">238</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="565" x="1269" flags="00000023" y="131" h="250" pid="0" iid="3">
+    <PROPERTIES>
+     <ITEM name="ComboBox1000">S</ITEM>
+     <ITEM name="ComboBox1001">Sr</ITEM>
+     <ITEM name="ComboBox1002">P</ITEM>
+     <ITEM name="ComboBox1003">A</ITEM>
+     <ITEM name="ComboBox1004">N</ITEM>
+     <ITEM name="ComboBox1005">S</ITEM>
+     <ITEM name="ComboBox1006">Sr</ITEM>
+     <ITEM name="ComboBox1007">P</ITEM>
+     <ITEM name="ComboBox1008">A</ITEM>
+     <ITEM name="ComboBox1009">N</ITEM>
+     <ITEM name="HSplitter1Pos">100</ITEM>
+     <ITEM name="VSplitter1Pos">238</ITEM>
+    </PROPERTIES>
+   </POPUP>
+  </PWI>
+  <BREAKPOINT LINE="94" FILE="../../../../../../../../py/_gits/damper-controller/main/main.ino" ADDRESS="4294967295" PROJECT="-1"/>
+  <BREAKPOINT LINE="95" FILE="../../../../../../../../py/_gits/damper-controller/main/main.ino" ADDRESS="4294967295" PROJECT="-1"/>
+  <BREAKPOINT LINE="127" FILE="../../../../../../../../py/_gits/damper-controller/main/main.ino" ADDRESS="4294967295" PROJECT="-1"/>
+  <BREAKPOINT LINE="132" FILE="../../../../../../../../py/_gits/damper-controller/main/main.ino" ADDRESS="4294967295" PROJECT="-1"/>
+  <BREAKPOINT LINE="135" FILE="../../../../../../../../py/_gits/damper-controller/main/main.ino" ADDRESS="4294967295" PROJECT="-1"/>
+  <BREAKPOINT LINE="150" FILE="../../../../../../../../py/_gits/damper-controller/main/main.ino" ADDRESS="4294967295" PROJECT="-1"/>
+  <BREAKPOINT LINE="157" FILE="../../../../../../../../py/_gits/damper-controller/main/main.ino" ADDRESS="4294967295" PROJECT="-1"/>
+  <BREAKPOINT LINE="325" FILE="../../../../../../../../py/_gits/damper-controller/main/main.ino" ADDRESS="4294967295" PROJECT="-1"/>
+  <BREAKPOINT LINE="128" ENABLED="FALSE" FILE="main.ino" ADDRESS="4294967295" PROJECT="1"/>
+  <BREAKPOINT LINE="135" ENABLED="FALSE" FILE="main.ino" ADDRESS="4294967295" PROJECT="1"/>
+  <BREAKPOINT LINE="156" ENABLED="FALSE" FILE="main.ino" ADDRESS="4294967295" PROJECT="1"/>
+  <BREAKPOINT LINE="332" ENABLED="FALSE" FILE="main.ino" ADDRESS="4294967295" PROJECT="1"/>
+  <BREAKPOINT LINE="341" ENABLED="FALSE" FILE="main.ino" ADDRESS="4294967295" PROJECT="1"/>
+  <BREAKPOINT LINE="342" ENABLED="FALSE" FILE="main.ino" ADDRESS="4294967295" PROJECT="1"/>
+  <BREAKPOINT LINE="348" ENABLED="FALSE" FILE="main.ino" ADDRESS="4294967295" PROJECT="1"/>
+  <BREAKPOINT LINE="349" ENABLED="FALSE" FILE="main.ino" ADDRESS="4294967295" PROJECT="1"/>
+  <BREAKPOINT LINE="31" ENABLED="FALSE" FILE="BMP185.ino" ADDRESS="4294967295" PROJECT="1"/>
+ </MODULE>
+</WORKSPACE>
