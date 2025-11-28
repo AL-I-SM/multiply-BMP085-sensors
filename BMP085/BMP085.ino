@@ -6,9 +6,8 @@
  */
 //=============================================================================
 
-#include "libs.h"
-//#include "src/BB_Adfrt_BMP085.h"
-//#include "src/BitBang_I2C.h"
+#include "BB_Adfrt_BMP085.h"
+#include "BitBang_I2C.h"
 
 // Arbitrary pins I used for testing with an ATmega328p
 
